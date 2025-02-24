@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Svkwizz ( souvik Paul)
-- 👀 I’m interested in Sports and Biomechancial analysis
-- 🌱 I’m currently learning Deep learning, Artificial Neural Network
+- 👀 I’m interested in Biomechanical research, computational Biomechanics & Sports Sciences
+- 🌱 I’m currently learning Deep learning, & AI
 - 💞️ I’m looking to collaborate on Biomechanical modelling, Neuro mechanics
 - 📫 How to reach me mail id- psouvik9@gmail.com
 - 😄 Pronouns: ...
